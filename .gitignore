@@ -1,7 +1,21 @@
 .idea/
 .settings/
 target/
-
+*.jar
+*.JAR
+*.ear
+*.EAR
+*.exe
+*.EXE
+*.class
+*.CLASS
+*.war
+*.WAR
+*.project
+*.classpath
+*.iml
+*.zip
+*.ZIP
 
 #KeysConfig
 *KeysConfig.prop
