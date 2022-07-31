@@ -5,6 +5,11 @@ import com.zerodhatech.models.User;
 import java.io.*;
 import java.util.Properties;
 
+/**
+ * @author mohit.jain
+ * @contact email: mohit.mohit.jain34@gmail.com
+ * @since Jul 31, 2022 8:37 PM
+ */
 public class AccessTokenGenerator {
     public static void main(String[] args) throws IOException {
         String fileName = AppConstants.TOKEN_FILENAME;

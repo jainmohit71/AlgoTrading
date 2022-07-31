@@ -11,6 +11,11 @@ import java.io.*;
 import java.util.List;
 import java.util.Properties;
 
+/**
+ * @author mohit.jain
+ * @contact email: mohit.mohit.jain34@gmail.com
+ * @since Jul 31, 2022 8:37 PM
+ */
 public class MJClientConnect {
     private static KiteConnect kiteConnect;
 
